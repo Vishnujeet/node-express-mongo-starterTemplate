@@ -1,1 +1,1 @@
-# node-express-mongo-starterTemplate
+# node-express-mongoDb-starterTemplate
